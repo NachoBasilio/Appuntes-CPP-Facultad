@@ -17,7 +17,6 @@ int main()
     }
     
 
-
     cout << "El factorial de " << num << " es: " << factorial << endl;
     system("read -p 'Presiona Enter para continuar...' var");
     return 0;
