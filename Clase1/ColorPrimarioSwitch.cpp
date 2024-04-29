@@ -7,6 +7,7 @@ int main(){
     char color;
     cout << "Ingrese un color primario en un carácter (R, G, B): ";
     cin >> color;
+    color = toupper(color);
     switch (color) {
         case 'R':
             cout << "Rojo" << endl;
