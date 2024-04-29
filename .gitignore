@@ -1,0 +1,7 @@
+# Ignorar archivos ejecutables
+*.exe
+*.out
+*.o
+
+# Ignorar directorios de salida
+/output/
