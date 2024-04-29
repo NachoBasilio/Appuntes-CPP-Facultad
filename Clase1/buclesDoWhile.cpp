@@ -4,10 +4,11 @@ using namespace std;
 
 int main()
 {
-    int num, suma=0;
+    float num, suma=0;
     bool cero = false;
 
     //Centinela
+    
     // do
     // {
     //     cout << "Ingrese un número: (0 para salir)";
@@ -22,10 +23,10 @@ int main()
     //Bandera
     do
     {
-        cout << "Ingrese un número: (0 para salir)";
+        cout << "Ingrese un número: (0 o negativos para salir)";
         cin >> num;
 
-        if (num == 0)
+        if (num <= 0)
         {
             cero = true;
         }
