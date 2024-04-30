@@ -24,5 +24,6 @@ main ()
         cout << "Los valores ingresados no son validos" << endl;
     }
 
-    system("pause");
+    system("read -p 'Presiona Enter para continuar...' var");
+
 }
