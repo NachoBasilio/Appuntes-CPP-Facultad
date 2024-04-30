@@ -22,7 +22,7 @@ int main(){
         if (strcmp(cad1,cad2)==0)
             cout << "Las dos cadenas son iguales" << endl;
         else{ 
-            if (strcmp(cad1,cad2)<0){
+            if (strcmp(cad1,cad2)<0){//strcat(cad1,cad2); concatena cad2 al final de cad1 solo si cad1 es lexicográficamente menor que cad2.
                 strcat(cad1,cad2);
                 cout << "Las cadenas son diferentes, la concatenación es: " << cad1 << endl;
             }
