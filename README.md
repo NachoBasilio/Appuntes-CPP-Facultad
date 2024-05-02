@@ -16,7 +16,7 @@ Los ejercicios de los trabajos prácticos (TP) están organizados en carpetas nu
 - **TP3**: Estructuras de Control - Secuenciales y Selectivas.
 - **TP4**: Estructuras de Control - Repetitivas.
 - **TP5**: Estructuras de Control - Finalización de Bucles.
-- **TP6**: Estructuras de Control. Codificación.
+- **TP6**: Estructuras de Control - Codificación.
 
 ## Contribuciones
 
