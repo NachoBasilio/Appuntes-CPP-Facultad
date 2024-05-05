@@ -12,11 +12,12 @@ En la carpeta `ClasesEnVivo` encontrarás mis notas de las clases. Estos apuntes
 
 Los ejercicios de los trabajos prácticos (TP) están organizados en carpetas numeradas. Cada carpeta contiene los archivos relacionados con un TP específico. Si tienes alguna pregunta sobre algún ejercicio en particular, no dudes en abrir un **issue** o **pull request**.
 
-- **TP2**: Aunque no contiene teoría, es importante mencionarlo para completar la secuencia. Este TP trata sobre conjuntos.
-- **TP3**: Estructuras de Control - Secuenciales y Selectivas.
-- **TP4**: Estructuras de Control - Repetitivas.
-- **TP5**: Estructuras de Control - Finalización de Bucles.
-- **TP6**: Estructuras de Control - Codificación.
+- **[TP2](https://github.com/NachoBasilio/CPP-Facultad/tree/main/TPs/TP2)**: Aunque no contiene teoría, es importante mencionarlo para completar la secuencia. Este TP trata sobre conjuntos.
+- **[TP3](https://github.com/NachoBasilio/CPP-Facultad/tree/main/TPs/TP3)**: Estructuras de Control - Secuenciales y Selectivas.
+- **[TP4](https://github.com/NachoBasilio/CPP-Facultad/tree/main/TPs/TP4)**: Estructuras de Control - Repetitivas.
+- **[TP5](https://github.com/NachoBasilio/CPP-Facultad/tree/main/TPs/TP5)**: Estructuras de Control - Finalización de Bucles.
+- **[TP6](https://github.com/NachoBasilio/CPP-Facultad/tree/main/TPs/TP6)**: Estructuras de Control - Codificación.
+
 
 ## Contribuciones
 
