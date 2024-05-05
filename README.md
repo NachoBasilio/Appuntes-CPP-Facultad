@@ -17,10 +17,6 @@ Los ejercicios de los trabajos prácticos (TP) están organizados en carpetas nu
 - **[TP4](https://github.com/NachoBasilio/CPP-Facultad/tree/main/TPs/TP4)**: Estructuras de Control - Repetitivas.
 - **[TP5](https://github.com/NachoBasilio/CPP-Facultad/tree/main/TPs/TP5)**: Estructuras de Control - Finalización de Bucles.
 - **[TP6](https://github.com/NachoBasilio/CPP-Facultad/tree/main/TPs/TP6)**: Estructuras de Control - Codificación.
-<<<<<<< HEAD
-=======
-
->>>>>>> 2977589e46ae2c74b03395b217a196b9d4c15628
 
 ## Contribuciones
 
