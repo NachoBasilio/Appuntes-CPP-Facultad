@@ -26,3 +26,9 @@ Los ejercicios de los trabajos prácticos (TP) están organizados en carpetas nu
 
 - **Nombre**: Ignacio Nicolás Basilio Buracco
 - **Correo Electrónico**: ignacio.n.basilio.b@gmail.com
+
+## Contribuidores
+
+<a href="https://github.com/NachoBasilio/CPP-Facultad/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=NachoBasilio/CPP-Facultad" />
+</a>
