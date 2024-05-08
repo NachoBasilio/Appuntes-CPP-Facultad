@@ -26,7 +26,7 @@ Algoritmo TP4EJDiez
 			si (aux1 >= "a" y aux <= "z") Entonces
 				minuscula <- Verdadero
 			SiNo
-				si (aux1 > "A" y aux < "Z") Entonces
+				si (aux1 >= "A" y aux <= "Z") Entonces
 					mayuscula <-	Verdadero
 				SiNo
 					cosaExtraña <- Verdadero
