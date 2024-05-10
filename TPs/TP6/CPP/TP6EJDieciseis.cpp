@@ -8,6 +8,16 @@ int main(){
     cout << "Vamos a calcular si es capicua: " << endl;
     cin >> numeroElegido;
 
+while (numeroElegido < 0)
+{
+    if(numeroElegido < 0){
+        cout << "El numero ingresado es negativo, por favor ingrese un numero positivo" << endl;
+        cin >> numeroElegido;
+    }
+
+}
+
+
     numeroInvertido = 0;
     aux1 = numeroElegido;
 
