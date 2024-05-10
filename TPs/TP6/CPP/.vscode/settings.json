@@ -2,6 +2,7 @@
     "files.associations": {
         "*.jsx": "javascriptreact",
         "iosfwd": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
