@@ -18,6 +18,8 @@ Los ejercicios de los trabajos prácticos (TP) están organizados en carpetas nu
 - **[TP5](https://github.com/NachoBasilio/CPP-Facultad/tree/main/TPs/TP5)**: Estructuras de Control - Finalización de Bucles.
 - **[TP6](https://github.com/NachoBasilio/CPP-Facultad/tree/main/TPs/TP6)**: Estructuras de Control - Codificación.
 
+Hasta aquí fue la primer parte de la materia, ahora toca la otra parte post primer parcial. 
+
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si encuentras errores en los apuntes o tienes ejercicios adicionales para compartir, siéntete libre de colaborar en este repositorio.
